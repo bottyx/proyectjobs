@@ -2,7 +2,7 @@
 <div class="container">
 	
 	<div class="col-lg-12">
-    		<h3>Busqueda de empleos</h3>
+    		<h3>Busqueda de empleos.</h3>
     		<hr>
 
     		<form class="form-inline">
