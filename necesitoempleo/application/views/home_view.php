@@ -21,7 +21,7 @@
    padding-top: 20px;
    height: 10%;
    background: black;
-   z-index: 1;
+   z-index: 1; 
    position: relative;
 }
 </style>
